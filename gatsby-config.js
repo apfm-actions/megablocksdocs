@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `MegaBlocks Docs`,
     siteUrl: `https://apfm-actions.github.io/megablocksdocs`,
-    description: `Your protal to learning APFM the Megablocks framework, maintained by the APFM Technical Operations team.`,
+    description: `Your portal to learning APFM the Megablocks framework, maintained by the APFM Technical Operations team.`,
     components: {
       appbar: {
         position: "sticky",
@@ -25,7 +25,7 @@ module.exports = {
             links: [
               {
                 title: "Terraform Action Base",
-                url: "github.com/apfm-actions/terraform-action-base"
+                url: "https://github.com/apfm-actions/terraform-action-base"
               },
               {
                 title: "Link 2",
