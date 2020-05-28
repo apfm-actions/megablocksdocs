@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Sky Lite`,
-    siteUrl: `https://yoursite.com`,
-    description: `A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.`,
+    title: `MegaBlocks Docs`,
+    siteUrl: `https://apfm-actions.github.io/megablocksdocs`,
+    description: `Your protal to learning APFM the Megablocks framework, maintained by the APFM Technical Operations team.`,
     components: {
       appbar: {
         position: "sticky",
