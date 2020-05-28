@@ -13,19 +13,19 @@ module.exports = {
           },
           {
             title: "Doc 2",
-            url: "/doc2"
+            url: "/megablocksdocs/doc2"
           }
         ]
       },
       footer: {
-        copyright: "yoursite.com",
+        copyright: "www.aplaceformom.com",
         columns: [
           {
-            heading: "Column 1",
+            heading: "APFM Public Github Actions",
             links: [
               {
-                title: "Link 1",
-                url: "#"
+                title: "Terraform Action Base",
+                url: "github.com/apfm-actions/terraform-action-base"
               },
               {
                 title: "Link 2",
@@ -112,7 +112,7 @@ module.exports = {
       options: {
         name: `Sky Lite`,
         short_name: `SkyLite`,
-        start_url: `/megablocksdocs`,
+        start_url: `/`,
         background_color: `rebeccapurple`,
         theme_color: `rebeccapurple`,
         display: `standalone`,
