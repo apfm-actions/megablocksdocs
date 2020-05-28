@@ -1,1 +1,1 @@
-{"data":{"site":{"siteMetadata":{"title":"MegaBlocks Docs","components":{"appbar":{"position":"sticky","links":[{"title":"What is this?","url":"/pages/2020-5-28-whatis.mdx"},{"title":"Doc 2","url":"/doc2"}]}}}}}}
+{"data":{"site":{"siteMetadata":{"title":"MegaBlocks Docs","components":{"appbar":{"position":"sticky","links":[{"title":"What is this?","url":"/whatis"},{"title":"Contribute","url":"/contribute"}]}}}}}}
