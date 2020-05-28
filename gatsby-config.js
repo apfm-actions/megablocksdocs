@@ -9,7 +9,7 @@ module.exports = {
 	links: [
 	  {
 	    title: "What is this?",
-	    url: "/whatis"
+	    url: "/posts/whatis"
           },
           {
 	    title: "Doc 2",
