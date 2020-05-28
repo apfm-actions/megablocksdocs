@@ -9,11 +9,11 @@ module.exports = {
 	links: [
 	  {
 	    title: "What is this?",
-	    url: "/pages/2020-5-28-whatis.mdx"
+	    url: "/whatis"
           },
           {
-	    title: "Doc 2",
-            url: "/doc2"
+	    title: "Contribute",
+            url: "/contribute"
           }
 	]
       },
