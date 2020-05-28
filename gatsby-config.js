@@ -112,7 +112,7 @@ module.exports = {
       options: {
         name: `Sky Lite`,
         short_name: `SkyLite`,
-        start_url: `/`,
+        start_url: `/megablocksdocs/'
         background_color: `rebeccapurple`,
         theme_color: `rebeccapurple`,
         display: `standalone`,
