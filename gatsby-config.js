@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `MegaBlocks Docs`,
-    siteUrl: `https://apfm-actions.github.io/megablocksdocs`,
+    siteUrl: "https://apfm-actions.github.io/megablocksdocs",
     description: `Your portal to learning APFM the Megablocks framework, maintained by the APFM Technical Operations team.`,
     components: {
       appbar: {
