@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `MegaBlocks Docs`,
-    siteUrl: "https://apfm-actions.github.io/megablocksdocs",
+    siteUrl: `megablocks.apfmtech.com`,
     description: `Your portal to learning APFM the Megablocks framework, maintained by the APFM Technical Operations team.`,
     components: {
       appbar: {
@@ -18,7 +18,7 @@ module.exports = {
         ]
       },
       footer: {
-        copyright: "www.aplaceformom.com",
+        copyright: "A Place For Mom Inc.",
         columns: [
           {
             heading: "APFM Public Github Actions",
