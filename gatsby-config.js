@@ -9,11 +9,11 @@ module.exports = {
         links: [
           {
             title: "Doc 1",
-            url: "/megablocksdocs/doc1"
+            url: "/doc1"
           },
           {
-            title: "Doc 2",
-            url: "/megablocksdocs/doc2"
+            title: "A Place For Mom Website",
+            url: "https://www.aplaceformom.com"
           }
         ]
       },
