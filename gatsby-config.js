@@ -9,7 +9,7 @@ module.exports = {
         links: [
           {
             title: "Doc 1",
-            url: "/doc1"
+            url: "/megablocksdocs/doc1"
           },
           {
             title: "Doc 2",
