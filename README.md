@@ -1,35 +1,34 @@
-# Gatsby Theme: Sky Lite Starter
+# MegaBlocks Docs: A Guide to Using the APFM TechOps Github Actions
 
-A lightweight GatsbyJS starter with Material-UI and MDX Markdown support. This starter uses the `gatsby-theme-sky-lite` theme available at: https://github.com/vim-labs/gatsby-theme-sky-lite
+Just a simple site on how to use the various tools and actions we're maintaining and developing in the apfm-actions repository. The site is a modified copy of the gatsby-theme-sky-lite-starter template and can be found here: https://github.com/vim-labs/gatsby-theme-sky-lite-starter
 
-**View demo:**
-https://gatsby-theme-sky-lite.netlify.com
+Documentation is presented in a series of blog posts and will be updated regularly.
 
-## Install dependencies
+
+## Running your own copy on your local machine
+
+### Install dependencies
 
 ```bash
 yarn # Or, npm install
 ```
 
-## Start development server
+### Start development server
 
 ```bash
 gatsby develop
 ```
 
-## Empty cache
+### Empty cache
 
 ```bash
 gatsby clean
 ```
 
-## Build static site
+### Build static site
 
 ```bash
 gatsby build
 ```
 
-## Screenshots
-
-![Screenshot 01](https://user-images.githubusercontent.com/25379378/69492728-f6e0e200-0e5a-11ea-9601-4d76414a792e.png)
-![Screenshot 02](https://user-images.githubusercontent.com/25379378/69492729-f6e0e200-0e5a-11ea-9508-94c69dff22e8.png)
+## Contributing new blog posts and documentation
