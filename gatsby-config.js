@@ -13,7 +13,7 @@ module.exports = {
           },
           {
             title: "A Place For Mom Website",
-            url: "https://www.aplaceformom.com"
+            siteUrl: "https://www.aplaceformom.com"
           }
         ]
       },
@@ -25,7 +25,7 @@ module.exports = {
             links: [
               {
                 title: "Terraform Action Base",
-                url: "https://github.com/apfm-actions/terraform-action-base"
+                siteUrl: "https://github.com/apfm-actions/terraform-action-base"
               },
               {
                 title: "Link 2",
