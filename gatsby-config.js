@@ -6,6 +6,16 @@ module.exports = {
     components: {
       appbar: {
         position: "sticky",
+	links: [
+	  {
+	    title: "Doc 1",
+	    url: "/doc1"
+          },
+          {
+	    title: "Doc 2",
+            url: "/doc2"
+          }
+	]
       },
       footer: {
         copyright: "A Place For Mom Inc.",
