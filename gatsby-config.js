@@ -8,8 +8,8 @@ module.exports = {
         position: "sticky",
 	links: [
 	  {
-	    title: "Doc 1",
-	    url: "/doc1"
+	    title: "What is this?",
+	    url: "/whatis"
           },
           {
 	    title: "Doc 2",
