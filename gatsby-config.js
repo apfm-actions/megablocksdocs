@@ -12,7 +12,7 @@ module.exports = {
 	    url: "/doc1"
           },
           {
-	    title: "Contribute",
+	    title: "Supported Tech",
             url: "/doc2"
           }
 	]
