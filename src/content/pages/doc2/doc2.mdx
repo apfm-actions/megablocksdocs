@@ -1,13 +1,30 @@
 ---
 id: "doc2"
-title: "Document 2"
-author: iRyanBell
+title: "Library of Supported Tools"
+author: "Cory Francis - A Place For Mom Inc."
 featuredImage: featured.jpg
-tags: [vim-labs]
+tags: [intro]
 ---
 
-import { Button } from '@material-ui/core'
+# The Tools Available To You
 
-You can use Material UI JSX in your Markdown thanks to [MDX](https://mdxjs.com/).
+The list of tools put out by AWS is vast and far too large for our teams to automate and support all of them. Furthermore, supporting the ever growing list of tools that AWS puts out has caused our tech stacks to become far too complicated and full of one off setups that are difficut to support. After discussing this issue with senior leadership, the APFM TechOps team will maintain and support Github Actions for the tools below. You can also find our GitHub Org ["apfm-actions"](https://github.com/apfm-actions), to see everything we're working on.
 
-<Button color='secondary' variant='contained'>Fantastic!</Button>
+* [EC2](https://github.com/apfm-actions/terraform-ec2-action)
+  * Linux
+  * Windows
+* [ECS](https://github.com/apfm-actions/terraform-ecs-app-action)
+  * Classic Linux contianer cluster.
+  * ["ECS Exec Action"](https://github.com/apfm-actions/aws-ecs-exec-action) - Spin up a container to run a one liner or scheduled task before turning back off.
+* S3 (Under Construction)
+  * Hosting a public static site with CloudFront for CDN/SSL.
+  * Generic private S3 bucket that apps (and people) can write too.
+  * Generic S3 buckets we can provide to partners and customers for file transfer or other solutions.
+* [ElasticSearch](https://github.com/apfm-actions/terraform-elasticsearch-action)
+* [ElasticCache](https://github.com/apfm-actions/terraform-elasticache-action)
+* [RDS](https://github.com/apfm-actions/terraform-rds-action) - Each environment has two RDS clusters TechOps maintains
+  * MySQL (create user & create/destroy db)
+  * Postgres (create user & create/destroy db)
+* [Document DB](https://github.com/apfm-actions/terraform-docdb-action)
+  * Limited functionality due to differences between Mongo and DocumentDB.
+
